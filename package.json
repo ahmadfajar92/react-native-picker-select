@@ -27,7 +27,7 @@
         "lodash.isequal": "^4.5.0"
     },
     "devDependencies": {
-        "@types/react-native": "^0.60.22",
+        "@types/react-native": "~0.63.2",
         "babel-jest": "^23.6.0",
         "babel-preset-react-native": "^4.0.1",
         "enzyme": "^3.7.0",
@@ -42,11 +42,11 @@
         "react": "16.6.1",
         "react-dom": "^16.6.1",
         "react-native": "0.57.7",
-        "@react-native-picker/picker": ">=2.1.0",
+        "@react-native-picker/picker": "^2.2.1",
         "react-test-renderer": "^16.6.1"
     },
     "peerDependencies": {
-        "@react-native-picker/picker": ">=2.1.0"
+        "@react-native-picker/picker": "^2.2.1"
     },
     "scripts": {
         "test": "jest",
